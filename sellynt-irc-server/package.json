@@ -1,0 +1,12 @@
+{
+  "name": "sellynt-irc-server",
+  "version": "1.0.0",
+  "description": "WebSocket IRC server for Minecraft client",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
